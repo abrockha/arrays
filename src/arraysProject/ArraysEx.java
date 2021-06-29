@@ -39,7 +39,7 @@ public class ArraysEx {
           }
 
           System.out.println(index); */
-	//The output of this example would be the maximum value of the examplesArray which is 6.
+	//The output of this example would be the index of the maximum value of the elements in the example array which is 2.
 	
 	public static int[] toPower(int size, int power) {
 		int[] expArray = new int[size];
